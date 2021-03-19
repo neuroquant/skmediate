@@ -1,7 +1,7 @@
 """
-Simulation Example.
+Simulation Example
+==================
 
-===============================
 Shows the different combinations of parameters used to
 simulate null and true data.
 
